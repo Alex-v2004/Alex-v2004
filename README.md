@@ -63,20 +63,20 @@ I'm passionate about building efficient and scalable software solutions. I love 
 ### Projects
 
 - **Big Mart Sales Predictor** — A predictive model for sales forecasting using machine learning.  
-  [GitHub Repo](https://github.com/alex2004/big-mart-sales-predictor) | [Live Demo](#)
+  [GitHub Repo](https://github.com/Alex-v2004/big-mart-sales-predictor) | [Live Demo](#)
 
 - **Stock Price Forecasting with LSTM** — Time series prediction using deep learning LSTM models.  
-  [GitHub Repo](https://github.com/alex2004/stock-price-predictor) | [Live Demo](#)
+  [GitHub Repo](https://github.com/Alex-v2004/stock-price-predictor) | [Live Demo](#)
 
 - **CNN-based Image Classifier** — Image classification using convolutional neural networks in Python.  
-  [GitHub Repo](https://github.com/alex2004/cnn-image-classifier) | [Live Demo](#)
+  [GitHub Repo](https://github.com/Alex-v2004/cnn-image-classifier) | [Live Demo](#)
 
 ---
 
 ### Certifications
 
-- Artificial Intelligence Certification — NIT Trichy  
-- Python Programming Certification — NIT Trichy  
+- Artificial Intelligence Certification — Y Hills  
+- Python Programming Certification — Online  
 - Web Development Certification — NIT Trichy
 
 ---
@@ -90,18 +90,7 @@ I'm passionate about building efficient and scalable software solutions. I love 
 
 ---
 
-### 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex2004&show_icons=true&theme=tokyonight&hide_title=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex2004&theme=tokyonight" width="100%" />
-</p>
-
----
-
 ### ✨ Quote
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
