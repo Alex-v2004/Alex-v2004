@@ -39,9 +39,7 @@ I'm passionate about building efficient and scalable software solutions. I love 
 
 ### 🌐 Portfolio
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blueviolet?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio Coming Soon" />
-</p>
+<p align="center"> <a href="https://alex-personal-portfolio.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" /> </a> </p>
 
 ---
 
