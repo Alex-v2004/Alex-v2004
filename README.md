@@ -1,90 +1,107 @@
-<!-- Banner -->
+![Masterhead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+
+<h1 align="center">Hi 👋 I'm Alex</h1>
+<h3 align="center">A Software Developer and Web Dev</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+---
+
+### About Me
+
+I'm passionate about building efficient and scalable software solutions. I love exploring new technologies and applying them to solve real-world problems. Currently, I’m focused on improving my skills in Python and web development.
+
+---
+
+### What I’m Learning
+
+- Advanced Python concepts  
+- Data Structures and Algorithms  
+- Web frameworks like React and Node.js  
+- Machine Learning basics and AI concepts
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/alex2004" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/__.alex.__2004" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:alexv9818@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🌐 Portfolio
+
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="banner" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">🚀 A Passionate Software Developer & Web Developer</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
----
-
-### 🧠 Currently Learning
-- Python for AI & ML
-- Backend Development (Node.js + MongoDB)
-- Frontend Animations with React + Framer Motion
-
----
-
-### 📫 Contact Me
-- Email: **alexv9818@gmail.com**
-- LinkedIn: [alex2004](https://linkedin.com/in/alex2004)
-- Instagram: [__.alex.__2004](https://instagram.com/__.alex.__2004)
-
----
-
-### 💼 Projects Portfolio
-🚧 *Website Coming Soon...*  
-<!-- Replace the below line with a real portfolio link -->
-<!-- <a href="https://your-portfolio-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=vercel&logoColor=white" />
-</a> -->
-
----
-
-### 🎓 Certifications
-- 🧠 **Artificial Intelligence** – NIT Trichy  
-- 🐍 **Python Programming** – NIT Trichy  
-- 🌐 **Web Development** – NIT Trichy  
-
----
-
-### 🛠️ Languages & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" />
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blueviolet?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio Coming Soon" />
 </p>
 
 ---
 
-### 🛠 IDEs & Tools I Use
-<p>
-  <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode" />
+### ⚒️ Skills & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,nodejs,mongodb,mysql,git,graphql,bootstrap,tailwind" />
 </p>
+
+---
+
+### Education
+
+- 🎓 B.Sc. Computer Science (In Progress)  
+- 📚 Online courses on AI, Python, and Web Development (NIT Trichy certifications)
+
+---
+
+### Projects
+
+- **Big Mart Sales Predictor** — A predictive model for sales forecasting using machine learning.  
+  [GitHub Repo](https://github.com/alex2004/big-mart-sales-predictor) | [Live Demo](#)
+
+- **Stock Price Forecasting with LSTM** — Time series prediction using deep learning LSTM models.  
+  [GitHub Repo](https://github.com/alex2004/stock-price-predictor) | [Live Demo](#)
+
+- **CNN-based Image Classifier** — Image classification using convolutional neural networks in Python.  
+  [GitHub Repo](https://github.com/alex2004/cnn-image-classifier) | [Live Demo](#)
+
+---
+
+### Certifications
+
+- Artificial Intelligence Certification — NIT Trichy  
+- Python Programming Certification — NIT Trichy  
+- Web Development Certification — NIT Trichy
+
+---
+
+### Goals for 2025
+
+- Complete my personal portfolio website  
+- Build 3-4 real-world projects and deploy them online  
+- Contribute to open source projects  
+- Learn advanced machine learning algorithms and deploy models
 
 ---
 
 ### 🏆 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex2004&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex2004&theme=radical" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alex2004&show_icons=true&theme=tokyonight&hide_title=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex2004&theme=tokyonight" width="100%" />
 </p>
 
 ---
 
-### 🏅 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alex2004&theme=algolia&row=1" />
-</p>
+### ✨ Quote
 
----
-
-### ⚡ Fun Fact
-> I know myself 😜  
-> Pronouns: **Tech Fanatic**
-
----
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
