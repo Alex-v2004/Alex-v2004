@@ -64,13 +64,13 @@ I'm passionate about building efficient and scalable software solutions. I love 
 ### Projects
 
 - **Big Mart Sales Predictor** — A predictive model for sales forecasting using machine learning.  
-  [GitHub Repo](https://github.com/Alex-v2004/big-mart-sales-predictor) | [Live Demo](#)
+  [GitHub Repo](https://github.com/Alex-v2004/Big-Mart-Sales-Prediction.git) | [Live Demo](#)
 
 - **Stock Price Forecasting with LSTM** — Time series prediction using deep learning LSTM models.  
-  [GitHub Repo](https://github.com/Alex-v2004/stock-price-predictor) | [Live Demo](#)
+  [GitHub Repo](https://github.com/Alex-v2004/Stock-price-predictor.git) | [Live Demo](#)
 
 - **CNN-based Image Classifier** — Image classification using convolutional neural networks in Python.  
-  [GitHub Repo](https://github.com/Alex-v2004/cnn-image-classifier) | [Live Demo](#)
+  [GitHub Repo](https://github.com/Alex-v2004/Image-Classification-with-Convolutional-Neural-Networks-CNNs-.git) | [Live Demo](#)
 
 ---
 
