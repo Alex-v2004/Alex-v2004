@@ -55,8 +55,9 @@ I'm passionate about building efficient and scalable software solutions. I love 
 
 ### Education
 
-- 🎓 B.Sc. Computer Science (In Progress)  
-- 📚 Online courses on AI, Python, and Web Development (NIT Trichy certifications)
+- 🎓 M.Sc. Computer Science (In Progress)  
+- 🎓 B.C.A Computer Applications (Completed)  
+- 📚 Online courses on AI, Python, and Web Development (certifications)
 
 ---
 
