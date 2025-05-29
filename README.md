@@ -39,7 +39,7 @@ I'm passionate about building efficient and scalable software solutions. I love 
 
 ### 🌐 Portfolio
 
-<p align="center"> <a href="https://alex-personal-portfolio.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" /> </a> </p>
+<p align="center"> <a href="https://alex-portfolio-ds.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Portfolio" /> </a> </p>
 
 ---
 
@@ -53,7 +53,7 @@ I'm passionate about building efficient and scalable software solutions. I love 
 
 ### Education
 
-- 🎓 M.Sc. Computer Science (In Progress)  
+- 🎓 M.Sc. Data Science (In Progress)  
 - 🎓 B.C.A Computer Applications (Completed)  
 - 📚 Online courses on AI, Python, and Web Development (certifications)
 
