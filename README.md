@@ -1,95 +1,73 @@
 ![Masterhead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alex-v2004&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Alex-v2004" />
+</p>
+
 <h1 align="center">Hi 👋 I'm Alex</h1>
-<h3 align="center">A Software Developer and Web Dev</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Data Scientist | Machine Learning Engineer | Full-Stack Developer</h3>
+
+<p align="center">
+  <a href="https://alex-datascientist.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-Visit%20Site-blueviolet?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Portfolio" />
+  </a>
+</p>
 
 ---
 
-### About Me
+### 🚀 Summary
 
-I'm passionate about building efficient and scalable software solutions. I love exploring new technologies and applying them to solve real-world problems. Currently, I’m focused on improving my skills in Python and web development.
+I am an **M.Sc. Data Science** student focused on building intelligent systems. I specialize in the intersection of **Machine Learning** and **Web Technology**, creating data-driven applications that are as functional as they are insightful.
 
----
-
-### What I’m Learning
-
-- Advanced Python concepts  
-- Data Structures and Algorithms  
-- Web frameworks like React and Node.js  
-- Machine Learning basics and AI concepts
+- 🔭 **Current Goal:** Developing production-ready Deep Learning models.
+- 🌱 **Learning:** Big Data Architectures & Cloud-Native AI.
+- ⚡ **Fun Fact:** I believe every dataset has a story; I just write the code to tell it.
 
 ---
 
-### 🔗 Connect with Me
+### ⚒️ Technical Inventory
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Science** | `Python` `Pandas` `Scikit-Learn` `TensorFlow` `Keras` `SQL` |
+| **Development** | `React.js` `Node.js` `Tailwind CSS` `JavaScript` `HTML/CSS` |
+| **Databases** | `MySQL` `MongoDB` `GraphQL` |
+| **Engineering** | `Git` `Docker` `Vite` `C++` `Java` |
+
+---
+
+### 📊 Major Projects
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Big Mart Sales](https://github.com/Alex-v2004/Big-Mart-Sales-Prediction.git)** | Retail sales forecasting with XGBoost. | Python, ML |
+| **[LSTM Forecasting](https://github.com/Alex-v2004/Stock-price-predictor.git)** | Deep Learning for time-series prediction. | TensorFlow, Keras |
+| **[CNN Classifier](https://github.com/Alex-v2004/Image-Classification-with-Convolutional-Neural-Networks-CNNs-.git)** | Convolutional Networks for image data. | Python, CNN |
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alex-v2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-v2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-v2004&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/alex2004" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/__.alex.__2004" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:alexv9818@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-### 🌐 Portfolio
-
-<p align="center"> <a href="https://alex-datascientist.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Portfolio" /> </a> </p>
-
----
-
-### ⚒️ Skills & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,nodejs,mongodb,mysql,git,graphql,bootstrap,tailwind" />
-</p>
-
----
-
-### Education
-
-- 🎓 M.Sc. Data Science (In Progress)  
-- 🎓 B.C.A Computer Applications (Completed)  
-- 📚 Online courses on AI, Python, and Web Development (certifications)
-
----
-
-### Projects
-
-- **Big Mart Sales Predictor** — A predictive model for sales forecasting using machine learning.  
-  [GitHub Repo](https://github.com/Alex-v2004/Big-Mart-Sales-Prediction.git) | [Live Demo](#)
-
-- **Stock Price Forecasting with LSTM** — Time series prediction using deep learning LSTM models.  
-  [GitHub Repo](https://github.com/Alex-v2004/Stock-price-predictor.git) | [Live Demo](#)
-
-- **CNN-based Image Classifier** — Image classification using convolutional neural networks in Python.  
-  [GitHub Repo](https://github.com/Alex-v2004/Image-Classification-with-Convolutional-Neural-Networks-CNNs-.git) | [Live Demo](#)
-
----
-
-### Certifications
-
-- Artificial Intelligence Certification — Y Hills  
-- Python Programming Certification — Online  
-- Web Development Certification — NIT Trichy
-
----
-
-### Goals for 2025
-
-- Complete my personal portfolio website  
-- Build 3-4 real-world projects and deploy them online  
-- Contribute to open source projects  
-- Learn advanced machine learning algorithms and deploy models
-
----
-
-### ✨ Quote
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+<p align="right"><i>"In God we trust, all others must bring data." – W. Edwards Deming</i></p>
