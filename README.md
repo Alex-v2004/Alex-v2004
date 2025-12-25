@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Alex</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | Full-Stack Developer</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | MLOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://alex-datascientist.netlify.app" target="_blank">
@@ -15,51 +15,77 @@
 
 ---
 
-### 🚀 Summary
+### 🚀 About Me
 
-I am an **M.Sc. Data Science** student focused on building intelligent systems. I specialize in the intersection of **Machine Learning** and **Web Technology**, creating data-driven applications that are as functional as they are insightful.
+I am an **M.Sc. Data Science** student specializing in the end-to-end lifecycle of Machine Learning. My focus is not just on building high-accuracy models, but on **deploying** them into production environments where they can provide real-time value.
 
-- 🔭 **Current Goal:** Developing production-ready Deep Learning models.
-- 🌱 **Learning:** Big Data Architectures & Cloud-Native AI.
-- ⚡ **Fun Fact:** I believe every dataset has a story; I just write the code to tell it.
+- 🔭 **Current Focus:** Optimizing model inference and creating interactive ML Dashboards.
+- 🌱 **Learning:** Dockerized ML environments and Cloud-native Model Serving.
+- 💬 **Ask me about:** Model Deployment, Predictive Analytics, and Python.
 
 ---
 
 ### ⚒️ Technical Inventory
 
-| Category | Tools & Technologies |
+| Category | Skills & Tools |
 | :--- | :--- |
 | **Data Science** | `Python` `Pandas` `Scikit-Learn` `TensorFlow` `Keras` `SQL` |
-| **Development** | `React.js` `Node.js` `Tailwind CSS` `JavaScript` `HTML/CSS` |
+| **Model Deployment** | `FastAPI` `Flask` `React.js` `REST APIs` `Netlify` |
 | **Databases** | `MySQL` `MongoDB` `GraphQL` |
-| **Engineering** | `Git` `Docker` `Vite` `C++` `Java` |
+| **Engineering** | `Git` `Docker` `GitHub Actions` `Linux` `Vite` |
 
 ---
 
-### 📊 Major Projects
+### 📊 Featured Production-Ready Projects
 
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Big Mart Sales](https://github.com/Alex-v2004/Big-Mart-Sales-Prediction.git)** | Retail sales forecasting with XGBoost. | Python, ML |
-| **[LSTM Forecasting](https://github.com/Alex-v2004/Stock-price-predictor.git)** | Deep Learning for time-series prediction. | TensorFlow, Keras |
-| **[CNN Classifier](https://github.com/Alex-v2004/Image-Classification-with-Convolutional-Neural-Networks-CNNs-.git)** | Convolutional Networks for image data. | Python, CNN |
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛒 Sales Prediction System</h4>
+      <p>A regression model deployed as a web tool to forecast outlet sales. Features a clean UI for real-time inference.</p>
+      <a href="https://github.com/Alex-v2004/Big-Mart-Sales-Prediction.git">Source Code →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Time-Series Dashboard</h4>
+      <p>Deep Learning (LSTM) model served via an interactive interface to visualize and forecast market trends.</p>
+      <a href="https://github.com/Alex-v2004/Stock-price-predictor.git">Source Code →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🖼️ Vision-as-a-Service</h4>
+      <p>A CNN-based image classification pipeline designed for automated recognition and scalable processing.</p>
+      <a href="https://github.com/Alex-v2004/Image-Classification-with-Convolutional-Neural-Networks-CNNs-.git">Source Code →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 ML Portfolio Hub</h4>
+      <p>A central deployment showcasing interactive ML projects, built with <b>React</b> for high performance.</p>
+      <a href="https://github.com/Alex-v2004/Alex-Portfolio.git">Source Code →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📈 GitHub Analytics
+---
+
+### 📈 GitHub Ecosystem
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alex-v2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-v2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-v2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alex's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-v2004&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-v2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-v2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
+### 🔗 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/alex2004" target="_blank">
@@ -70,4 +96,4 @@ I am an **M.Sc. Data Science** student focused on building intelligent systems. 
   </a>
 </p>
 
-<p align="right"><i>"In God we trust, all others must bring data." – W. Edwards Deming</i></p>
+<p align="right"><i>"Model deployment is where the value begins."</i></p>
