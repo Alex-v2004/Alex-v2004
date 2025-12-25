@@ -69,18 +69,20 @@ I am an **M.Sc. Data Science** student specializing in the end-to-end lifecycle 
 
 ---
 
+---
+
 ### 📈 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex-v2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alex's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-v2004&show_icons=true&theme=transparent&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&border_color=44475a&count_private=true&include_all_commits=true" alt="Alex's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-v2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-v2004&layout=compact&theme=transparent&title_color=bd93f9&text_color=f8f8f2&border_color=44475a&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-v2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-v2004&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
