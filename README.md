@@ -39,7 +39,7 @@ I'm passionate about building efficient and scalable software solutions. I love 
 
 ### 🌐 Portfolio
 
-<p align="center"> <a href="https://alex-portfolio-ds.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Portfolio" /> </a> </p>
+<p align="center"> <a href="https://alex-datascientist.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Portfolio" /> </a> </p>
 
 ---
 
