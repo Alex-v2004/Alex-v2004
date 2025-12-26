@@ -17,11 +17,11 @@
 
 ### 🚀 About Me
 
-I am an **M.Sc. Data Science** student specializing in the end-to-end lifecycle of Machine Learning. My focus is not just on building high-accuracy models, but on **deploying** them into production environments where they can provide real-time value.
+I am an **M.Sc. Data Science** student specializing in the end-to-end lifecycle of Machine Learning. My focus is not just on building high-accuracy models, but on **deploying** them into production environments.
 
-- 🔭 **Current Focus:** Optimizing model inference and creating interactive ML Dashboards.
+- 🔭 **Focus:** Optimizing model inference and creating interactive ML Dashboards.
 - 🌱 **Learning:** Dockerized ML environments and Cloud-native Model Serving.
-- 💬 **Ask me about:** Model Deployment, Predictive Analytics, and Python.
+- 💬 **Expertise:** Python (ML/DL), SQL, and React.js.
 
 ---
 
@@ -31,7 +31,6 @@ I am an **M.Sc. Data Science** student specializing in the end-to-end lifecycle 
 | :--- | :--- |
 | **Data Science** | `Python` `Pandas` `Scikit-Learn` `TensorFlow` `Keras` `SQL` |
 | **Model Deployment** | `FastAPI` `Flask` `React.js` `REST APIs` `Netlify` |
-| **Databases** | `MySQL` `MongoDB` `GraphQL` |
 | **Engineering** | `Git` `Docker` `GitHub Actions` `Linux` `Vite` |
 
 ---
@@ -51,31 +50,22 @@ I am an **M.Sc. Data Science** student specializing in the end-to-end lifecycle 
       <a href="https://github.com/Alex-v2004/Stock-price-predictor.git">Source Code →</a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🖼️ Vision-as-a-Service</h4>
-      <p>A CNN-based image classification pipeline designed for automated recognition and scalable processing.</p>
-      <a href="https://github.com/Alex-v2004/Image-Classification-with-Convolutional-Neural-Networks-CNNs-.git">Source Code →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 ML Portfolio Hub</h4>
-      <p>A central deployment showcasing interactive ML projects, built with <b>React</b> for high performance.</p>
-      <a href="https://github.com/Alex-v2004/Alex-Portfolio.git">Source Code →</a>
-    </td>
-  </tr>
 </table>
 
 ---
 
 ### 📈 GitHub Ecosystem
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex-v2004&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Alex's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-v2004&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" alt="Top Languages" width="300" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-v2004&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-v2004&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,mongodb,react,nodejs,git,docker,linux" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-v2004&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
