@@ -17,11 +17,11 @@
 
 ### 🚀 About Me
 
-I am an **M.Sc. Data Science** student specializing in the end-to-end lifecycle of Machine Learning. My focus is not just on building high-accuracy models, but on **deploying** them into production environments.
+🎓 **M.Sc. Data Science Student** specializing in Neural Networks and Predictive Modeling.
 
-- 🔭 **Focus:** Optimizing model inference and creating interactive ML Dashboards.
-- 🌱 **Learning:** Dockerized ML environments and Cloud-native Model Serving.
-- 💬 **Expertise:** Python (ML/DL), SQL, and React.js.
+- 🎯 **Mission:** Bridging the gap between Data Science research and Production Engineering.
+- 🛠️ **Strategy:** Building robust ML pipelines (Python/SQL) and serving them via modern web stacks (FastAPI/React).
+- 📈 **Goal:** Creating measurable impact through automated, data-driven systems.
 
 ---
 
